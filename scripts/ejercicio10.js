@@ -1,0 +1,1 @@
+console.log(arrayLorem[0])
